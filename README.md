@@ -1,3 +1,3 @@
 # RotatorPrototype
-A prototype made for Kiggjo Games 
+Rotator clone
 Developer: Ahmet Yaşar Balıkçıoğlu
